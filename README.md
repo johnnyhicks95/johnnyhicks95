@@ -9,5 +9,5 @@ Presentación en español
 - 👋 Hola, Soy johnnyhicks95
 - 👀 Estoy interesado en el desarrollo de servicios web como páginas de llegada o aplicaciones de una sola página(página web dinámica)(al menos por ahora)
 - 🌱 Estoy actualmente estudiando la carrera de ingeniería en software
-- 💞️ Estoy buscand colaborar en actualizar con nuevas tecnologias de programación a través de los negocios en mi ciudad.
+- 💞️ Estoy buscando colaborar en actualizar con nuevas tecnologias de programación a través de los negocios en mi ciudad.
 - 📫 Como contactarme, actualmente por mi correro electrónico y mi cuenta de instagram,  johnnyguamanuta@gmail.com - @johnnyhicks95
