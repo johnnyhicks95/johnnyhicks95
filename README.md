@@ -14,7 +14,6 @@ Presentación en español
 - Apostando por la confiabilidad, éxito y elegancia
 - 🌱 Estudiando la carrera de ingeniería en software
 - 💞️ Estoy buscando colaborar en actualizar con nuevas tecnologias de programación a través de los negocios en mi ciudad.
-- 📫 Como contactarme, actualmente por mi correro electrónico y mi cuenta de instagram,  
 
 - 👋 Приве
 - 👀 Я заинтересован в разработке веб-сервисов, таких как целевые страницы или веб-приложения (по крайней мере, на данный момент)
